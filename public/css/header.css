@@ -1,0 +1,46 @@
+    body {
+        background-image: url("/images/fondo.jpg");
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    .btn2 {
+        margin-left: 30%;
+    }
+
+    tr {
+        background-color: rgb(198, 243, 187);
+    }
+
+    .accion{
+        text-align: center;
+    }
+
+    .btn3 {
+        float: left;
+        width: 100%;
+        margin-top: 10px;
+    }
+
+    .fila {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .container {
+        margin-top: 50px;
+    }
+
+    h1 {
+        text-align: center;
+        text-decoration: underline;
+        background-color: black;
+        color: white;
+        height: 50px;
+    }
